@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langgraph
+openai
+tiktoken
+faiss-cpu
+python-dotenv
+pydantic
+scikit-learn
+pandas
+numpy
+email-validator
+aiofiles
+httpx
