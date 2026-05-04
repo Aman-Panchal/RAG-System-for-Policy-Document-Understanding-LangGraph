@@ -151,9 +151,7 @@ streamlit run frontend/app.py
 
 ---
 
-## 📸 Screenshots (Add These)
-
-> Add images in `assets/` folder and update below links
+## 📸 Screenshots
 
 * Chat Interface
 * Streaming Response
@@ -163,9 +161,8 @@ streamlit run frontend/app.py
 
 Example:
 
-```
-![Chat UI, Sources, LangSmith](https://github.com/Aman-Panchal/RAG-System-for-Policy-Document-Understanding-LangGraph/blob/main/assets/Chat_ui_sources_langsmith.png)
-```
+![Chat UI, Sources, LangSmith](assets/Chat_ui_sources_langsmith.png)
+
 
 ---
 
