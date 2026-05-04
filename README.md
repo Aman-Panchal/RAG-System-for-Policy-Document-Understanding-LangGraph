@@ -67,7 +67,7 @@ rag-policy-system/
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone <your-repo-link>
+git clone (https://github.com/Aman-Panchal/RAG-System-for-Policy-Document-Understanding-LangGraph.git)
 cd rag-policy-system
 ```
 
@@ -164,7 +164,7 @@ streamlit run frontend/app.py
 Example:
 
 ```
-![Chat UI, Sources, LangSmith](assets/Chat_ui_sources_langsmith.png)
+![Chat UI, Sources, LangSmith](https://github.com/Aman-Panchal/RAG-System-for-Policy-Document-Understanding-LangGraph/blob/main/assets/Chat_ui_sources_langsmith.png)
 ```
 
 ---
